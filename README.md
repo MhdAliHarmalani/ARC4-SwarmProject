@@ -32,10 +32,15 @@ companion Android app gives an operator continuous, live monitoring of the whole
 
 ## Featured
 
-| | |
-|---|---|
-| ![Swarmly Cleaner robot — 3D design](<BOT Client 3D.png>) | 3D CAD design of a single Swarmly Cleaner collector unit — chassis, dual-wheel drive, and onboard ultrasonic sensors. |
-| ![R.U.T Team at the ARC4 exhibition](<competition time.jpg>) | R.U.T Team presenting Swarmly Cleaner at the ARC4 open-category exhibition, alongside a scale city-block model used to demo the swarm's navigation. |
+![R.U.T Team presenting Swarmly Cleaner at the ARC4 open-category exhibition](<competition time.jpg>)
+
+*R.U.T Team presenting Swarmly Cleaner at the ARC4 open-category exhibition, alongside a scale
+city-block model used to demo the swarm's navigation.*
+
+![Swarmly Cleaner robot — 3D design](<BOT Client 3D.png>)
+
+*3D CAD design of a single Swarmly Cleaner collector unit — chassis, dual-wheel drive, and onboard
+ultrasonic sensors.*
 
 ## Tech Stack
 
